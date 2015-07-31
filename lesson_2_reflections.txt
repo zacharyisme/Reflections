@@ -19,8 +19,11 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+    Merge two branches will combind two branches commits into main branch and makes the commits traceable.
+    Because represent in the diagram let us easy to know what codes are created before others.
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
